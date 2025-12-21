@@ -2,7 +2,7 @@
 
 **Analista de Datos | Especialista en Procesos Comerciales y Financieros**
 
-Analista de Datos con experiencia transformando información operativa en estrategias de crecimiento.Me especializo en el análisis crítico para optimizar procesos comerciales y asegurar la mitigación proactiva del riesgo.
+Analista de Datos con experiencia transformando información operativa en estrategias de crecimiento. Me especializo en el análisis crítico para optimizar procesos comerciales y asegurar la mitigación proactiva del riesgo.
 Cuento con formación académica en Investigación Biomédica, lo que me aporta un enfoque analítico y metodológico riguroso.
 
 ---
@@ -19,10 +19,11 @@ Bases de Datos:** SQL (Consulta avanzada y filtrado de datos)
 **Idiomas:** Inglés (Nivel B2)
 
 ### 🎓 Certificaciones y Formación
-**Cisco Networking Academy:** SQL, Excel y Tableau
-**Alura Latam:** Formación integral en Data Science y Análisis.
-**Fundación Carlos Slim:** RStudio.
-**Udemy:** Power BI y Excel.
+**Cisco Networking Academy:** Data Analytics Essentials, Python Essentials 1.
+**Alura Latam:** Formación integral en Data Science y Bases de datos SQL.
+**Fundación Carlos Slim:** Analista de datos e interpretacion de datos.
+**Udemy:** Curso Power BI – Análisis de Datos y Business Intelligence, Excel Completo - Desde Principiante Hasta Avanzado
+
 
 ---
 
