@@ -18,7 +18,9 @@ Bases de Datos:** SQL (Consulta avanzada y filtrado de datos)
 **Gestión:** CRM para la optimización de datos de clientes y análisis de riesgos financieros
 **Idiomas:** Inglés (Nivel B2)
 
-### 🎓 Certificaciones y Formación
+### 🎓 Formación
+💻🔬🧬 Licenciado en Ciencias Biomédicas | Universidad Autónoma de Sinaloa.
+✅ Certificaciones
 **Cisco Networking Academy:** Data Analytics Essentials, Python Essentials 1.
 **Alura Latam:** Formación integral en Data Science y Bases de datos SQL.
 **Fundación Carlos Slim:** Analista de datos e interpretacion de datos.
