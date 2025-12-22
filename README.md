@@ -21,20 +21,15 @@ Bases de Datos:** SQL (Consulta avanzada y filtrado de datos)
 ### 🎓 Formación
 💻🔬🧬 **Licenciado en Ciencias Biomédicas** — Universidad Autónoma de Sinaloa
 
-✅ Certificaciones
-
+### ✅ Certificaciones
  **Cisco Networking Academy:** 
  Data Analytics Essentials, Python Essentials 1.
- 
  **Alura Latam:**
  Formación integral en Data Science y Bases de datos SQL.
- 
  **Fundación Carlos Slim:**
  Analista de datos e interpretacion de datos.
- 
  **Udemy:**
- Curso Power BI – Análisis de Datos y Business Intelligence, Excel Completo - Desde Principiante Hasta Avanzado
-
+ Curso Power BI – Análisis de Datos y Business Intelligence, Curso de Excel Completo - Desde Principiante Hasta Avanzado.
 
 ---
 
