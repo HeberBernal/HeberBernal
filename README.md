@@ -19,7 +19,7 @@ Bases de Datos:** SQL (Consulta avanzada y filtrado de datos)
 **Idiomas:** Inglés (Nivel B2)
 
 ### 🎓 Formación
-💻🔬🧬 Licenciado en Ciencias Biomédicas | Universidad Autónoma de Sinaloa.
+💻🔬🧬 Licenciado en Ciencias Biomédicas — Universidad Autónoma de Sinaloa
 ✅ Certificaciones
 **Cisco Networking Academy:** Data Analytics Essentials, Python Essentials 1.
 **Alura Latam:** Formación integral en Data Science y Bases de datos SQL.
