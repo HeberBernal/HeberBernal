@@ -8,9 +8,11 @@ Cuento con formación académica en Investigación Biomédica, lo que me aporta 
 ---
 
 ### 🚀 Perfil Profesional
-**Análisis y Estrategia:** Experiencia en gestión de riesgo crediticio mediante el análisis de estados financieros y monitoreo de cuentas
-**Logística y Ecommerce:** Gestión de planes de ventas e implementación de soluciones digitales para captación de leads
-**Atención y Negociación:** Especialista en la resolución de deudas y negociación efectiva de acuerdos de pago.
+**Analítica Financiera:** Especialista en la mitigación de riesgos mediante el análisis y el monitoreo de métricas de crédito.
+
+**Optimización Digital:** Modelado de estrategias para E-commerce y logística, mejorando la captación de leads mediante soluciones basadas en datos.
+
+**Estrategia de Recuperación:** Experto en negociación técnica y resolución de pasivos, utilizando la analítica para optimizar acuerdos de pago.
 
 ### 🛠️ Herramientas y Habilidades Técnicas
 Bases de Datos:** SQL (Consulta avanzada y filtrado de datos)
