@@ -1,6 +1,6 @@
 # ¡Hola! Soy Heber Job Bernal Monarrez 👋
 
-**Analista de Datos | Especialista en Procesos Comerciales y Financieros**
+**Data Analyst & Estratega Financiero | Riesgo Crediticio y FinTech**
 
 Analista de Datos con experiencia transformando información operativa en estrategias de crecimiento. Me especializo en el análisis crítico para optimizar procesos comerciales y asegurar la mitigación proactiva del riesgo.
 Cuento con formación académica en Investigación Biomédica, lo que me aporta un enfoque analítico y metodológico riguroso.
