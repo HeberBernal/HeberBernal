@@ -28,7 +28,7 @@ Cuento con formación académica en Investigación Biomédica, lo que me aporta 
 * **Cisco Networking Academy:** Data Analytics Essentials, Python Essentials 1.
 * **Alura Latam:** Formación integral en Data Science y Bases de Datos SQL.
 * **Fundación Carlos Slim:** Analista de Datos e Interpretación de Datos.
-* **Udemy:** Power BI – Business Intelligence, Excel Completo (Principiante a Avanzado).
+* **Udemy:** Power BI – Business Intelligence, Excel Completo (Avanzado).
 
 ---
 
