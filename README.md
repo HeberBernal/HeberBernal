@@ -17,7 +17,7 @@ Cuento con formación académica en Investigación Biomédica, lo que me aporta 
 ### 🛠️ Herramientas y Habilidades Técnicas
 - **SQL**: Bases de Datos (Consulta avanzada y filtrado de datos)
 - **Power BI**: (Dashboards dinámicos) y Excel (Tablas dinámicas y modelado de datos)
-- **Python**: Ciclo End-to-End: Especialista en el flujo completo de datos, desde la automatización de ETL (Pandas, NumPy) y el análisis exploratorio (EDA) para hallar tendencias críticas, hasta el desarrollo y validación de modelos predictivos (Scikit-learn) enfocados en riesgo y comportamiento del consumidor.Python
+- **Python**: Ciclo End-to-End: Especialista en el flujo completo de datos, desde la automatización de ETL (Pandas, NumPy) y el análisis exploratorio (EDA) para hallar tendencias críticas, hasta el desarrollo y validación de modelos predictivos (Scikit-learn) enfocados en riesgo y comportamiento del consumidor
 - **Idiomas:** Inglés (Nivel B2)
 
 ### 🎓 Formación
